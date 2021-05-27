@@ -1,1 +1,1 @@
-A demo application of faspapi
+A demo application of fastapi
