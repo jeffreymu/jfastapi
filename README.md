@@ -1,9 +1,9 @@
 A demo application of fastapi
 
-# Installation:
+# Installation
 - pip install fastapi
 
-# how to run
+# How to run on Linux
 ## univon
   
  - pip install uvicorn
