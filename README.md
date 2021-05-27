@@ -1,7 +1,7 @@
 A demo application of fastapi
 
-#Installation:
-pip install fastapi
+# Installation:
+- pip install fastapi
 
 # how to run
 ## univon
