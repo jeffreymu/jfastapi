@@ -32,6 +32,7 @@ pandas==1.2.3
 pip-tools==5.1.2
 prompt-toolkit==3.0.14
 pydantic==1.7.3
+pyecharts==1.9.0
 pymongo==3.11.2
 pymysql==1.0.2
 pyrsistent==0.15.6
